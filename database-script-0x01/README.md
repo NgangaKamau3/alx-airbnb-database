@@ -1,0 +1,1 @@
+This is the first database in the airBnB clone project

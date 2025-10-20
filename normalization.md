@@ -1,3 +1,9 @@
+# Data Normalisation
+Normalization is a database design technique used to organize data in a relational
+database. It reduces data redundancy and ensures data integrity  
+It involves breaking down a large,
+complex table into smaller, related tables and
+establishing relationships between them.
 # Normalization Process
 ## First Normal Form (1NF)
 Ensured that each table has atomic values and no repeating groups.

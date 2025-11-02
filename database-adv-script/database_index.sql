@@ -1,6 +1,3 @@
--- Task 3: Implement Indexes for Optimization
--- This file contains CREATE INDEX commands for high-usage columns
-
 -- =============================================================================
 -- Indexes for User Table
 -- =============================================================================

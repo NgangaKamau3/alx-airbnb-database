@@ -155,7 +155,7 @@ GROUP BY p.property_id
 HAVING AVG(r.rating) > 4.0;
 
 -- Query 5: Complex join query (bookings with user and property details)
-EXPLAIN SELECT 
+EXPLAIN ANALYZE SELECT 
     b.booking_id,
     u.first_name,
     u.last_name,

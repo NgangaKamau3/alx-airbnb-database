@@ -1,4 +1,4 @@
--- INITIAL QUERY (Before Optimization)
+--- INITIAL QUERY (Before Optimization)
 -- =============================================================================
 -- This query retrieves all bookings along with user details, property details, 
 -- and payment details WITHOUT optimization
